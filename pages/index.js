@@ -71,7 +71,7 @@ export default function SearchAppBar() {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            MUI
+            Ik ga naar Nederland
           </Typography>
           <Search>
             <SearchIconWrapper>
